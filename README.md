@@ -1,4 +1,4 @@
-# AQUABOT-MD
+# WHATSAPP-BOT-MD-2.0
 This project is still being tested
 <p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
  <p align="center">
