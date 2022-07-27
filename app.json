@@ -1,14 +1,14 @@
 {
     "name": "WHATSAPP BOT MD",
     "description": "WHATSAPP BOT  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
+    "logo": "https://telegra.ph/file/d8a064e1c66affe59a3f4.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
+    "repository": "https://github.com/KH4DHER/WHATSAPP-BOT-MD-2.0",
     "website":   "https://aquabot.ga/",
     "success_url": "https://aquabot.ga",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {
+            "KDR_SESSION": {
             "description": "",
             "required": true
              },
