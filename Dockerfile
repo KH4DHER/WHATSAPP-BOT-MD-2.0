@@ -1,4 +1,4 @@
-FROM quay.io/khadher/khadher
+FROM aquabotwa/sanuwa-official:md-beta
  
 RUN git clone https://github.com/KH4DHER/WHATSAPP-BOT-MD-2.0 /root/whatsappbotkdr
 WORKDIR /root/whatsappbotkdr/
