@@ -15,17 +15,17 @@ This project is still being tested
     
   ### You can easily get the QR code from Repl.it.. CLICK the button below
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/)
 
 ## After receiving the session id , CLICK the button below to deploy the Bot..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/khaxdher/AQUABOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KH4DHER/WHATSAPP-BOT-MD-2.0)
 
 ---------------------------------   
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
 - [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://github.com/yusufusta/WhatsAsena) 
-
+- [sanuwa official](wa.me/917560920774)special thankz
  
   
  
